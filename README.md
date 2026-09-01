@@ -1,3 +1,4 @@
+<img width="960" height="504" alt="auto" src="https://github.com/user-attachments/assets/71648c3a-6cbc-42df-9ccc-89a8d77f1819" />
 # Central Inteligente de Consulta Empresarial
 
 **Aluno:** Emmanoel Shiroshi Tanaka
